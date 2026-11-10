@@ -1,2 +1,2 @@
-ss# shri-shivam-bandhani
-Bilingual storefront for Shri Shivam Rajasthani Bandhani sarees
+# shri-shivam-bandhani
+Bilingual storefront for Shri Shivam Rajasthani Bandhani saree
